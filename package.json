@@ -128,7 +128,7 @@
     "assert": "^2.0.0",
     "babel-standalone": "^6.26.0",
     "chalk": "^5.0.0",
-    "ckeditor5-premium-features": "43.3.1",
+    "ckeditor5-premium-features": "44.2.0",
     "coveralls": "^3.1.0",
     "date-fns": "2.30.0",
     "eslint": "^8.21.0",
